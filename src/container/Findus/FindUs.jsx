@@ -10,7 +10,7 @@ const FindUs = () => (
         Find Us
       </h1>
       <div className="app__wrapper-content">
-        <p className="p__opensans">Jl. grand, Jakarta, Indonesia</p>
+        <p className="p__opensans">BK. grand, Bangkok, Thailand</p>
         <p
           className="p__cormorant"
           style={{ color: "#DCCA87", margin: "2rem 0" }}
