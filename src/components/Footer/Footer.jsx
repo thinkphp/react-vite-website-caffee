@@ -9,9 +9,10 @@ const Footer = () => (
     <div className="app__footer-links">
       <div className="app__footer-links_contact">
         <h1 className="app__footer_headtext">Contact Us</h1>
-        <p className="p__opensans">Jl grand, Jakarta, Indonesia</p>
-        <p className="p__opensans">+62 123456789</p>
-        <p className="p__opensans">+62 987654321</p>
+        <p className="p__opensans">TB, Bangkok, Thailand</p>
+        <p className="p__opensans">+40 123456789</p>
+        <p className="p__opensans">+49 987654321</p>
+        <p className="p__opensans">Adrian Statescu Invester, Entrepreneur</p>
       </div>
       <div className="app__footer-links_logo">
         <img src={images.gericht} alt="" />
