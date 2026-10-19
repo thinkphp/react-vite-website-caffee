@@ -1,6 +1,6 @@
-# Cafe React ✅ DONE
+# Cafe React
 
-This is a café landing page built with React and Vite.
+This is a café landing page Frontend built with React and Vite.
 
 ## Run locally
 
