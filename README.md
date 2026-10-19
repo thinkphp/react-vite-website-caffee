@@ -1,4 +1,4 @@
-# Cafe React
+# Cafe React ✅ DONE
 
 This is a café landing page built with React and Vite.
 
